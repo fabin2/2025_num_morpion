@@ -1,4 +1,4 @@
-# Morpion
+# Morpion Num&Boost
 
 <img src="imagesMD/gameGif.gif" alt="gameGif_gif" width="50%" height="50%"><br>
 
